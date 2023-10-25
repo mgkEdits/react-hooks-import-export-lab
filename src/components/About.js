@@ -1,5 +1,5 @@
 import React from "react";
-import{bimage} from "../data/user";
+import{image} from "../data/user";
 function About() {
   return (
     <div id="about">
